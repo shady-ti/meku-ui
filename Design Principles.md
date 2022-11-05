@@ -24,20 +24,18 @@ In the face of ambiguous meaning, there is still no need to guess.
 
 ## Attention Deflecting
 
-Mēku never seeks more attention or interaction from me.  My mind is enraptured
-completely by my work.
+Mēku never seeks more attention or interaction from me. My mind is enraptured completely by my work.
 
 ```
 Simple is better than complex, complex is better than complicated,
-empty is better than full — there exists no UI.
+plain is better than cluttered — there exists no UI.
 ```
 
 <br/><br/><br/>
 
 ## Understanding
 
-Mēku knows what I want to do, I never need to stop and navigate to get to where I
-want.
+Mēku knows what I want to do, I never need to stop and navigate to get to where I want.
 
 ```
 Flat is better than nested — the unnecessary intermediaries have been deleted.
