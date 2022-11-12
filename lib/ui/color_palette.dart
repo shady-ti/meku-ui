@@ -1,8 +1,13 @@
+/// {@nodoc}
+
+// Dart imports:
 import 'dart:math';
 
+// Flutter imports:
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
+// Project imports:
 import 'package:meku/model/colors.dart';
 
 enum Status { unlocked, locked }
