@@ -42,4 +42,8 @@ Flat is better than nested — the unnecessary intermediaries have been delete
 The destination is one. The paths are many, yet meandering paths do not exist.
 ```
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
+
+# See Also
+
+- [Colors in Mēku](colors.md)
